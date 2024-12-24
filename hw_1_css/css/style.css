@@ -1,0 +1,52 @@
+body{
+    font-family: cursive;
+    font-size: 105%;
+}
+
+
+header{
+    background-color: lightgray;
+}
+
+
+nav{
+    background-color: lightblue;
+    font-size: larger;
+    font-family: cursive;
+}
+
+
+main{
+    background-color: lightcyan;
+    font-size: medium;
+}
+
+
+footer{
+    background-color: lavender;
+    font-size: smaller;
+}
+
+
+li{
+    display:inline-block;
+    width:350px;
+}
+
+
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: math, sans-serif;
+    color: darkred;
+    font-size: xx-large;
+    font-variant: small-caps;
+    display: block;
+}
+
+
+p{
+    text-align:justify;
+    line-height:170%;
+}
+
