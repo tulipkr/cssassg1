@@ -1,0 +1,71 @@
+body{
+    background-color:floralwhite;
+    font-family: cursive;
+    font-size: 105%;
+}
+
+
+header{
+    background-color: lightgray;
+}
+
+
+nav{
+    font-size: larger;
+    font-family: cursive;
+    display: inline-block;
+    
+}
+
+
+main{
+    background-color: lightcyan;
+    font-size: medium;
+}
+
+
+footer{
+    background-color: lavender;
+    font-size: smaller;
+}
+
+
+li{
+    display:inline-block;
+    width:300px;
+    }
+
+
+
+h1{
+    text-align: center;
+    font-family: math, sans-serif;
+    color: darkred;
+    font-size: xx-large;
+    font-variant: small-caps;
+    display: block;
+}
+
+ul{
+    display:flex;
+}
+
+p{
+    text-align:justify;
+    line-height:100%;
+}
+
+
+nav img{
+    width:10%;
+    position:relative;
+    top:20px;
+}
+
+div {
+    display:grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    column-gap: 10px;
+    row-gap:10px;
+}
